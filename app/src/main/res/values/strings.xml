@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppIdleState</string>
+    <string name="some_button">Some button</string>
+    <string name="another_button">Another button</string>
+    <string name="some_text">Some text</string>
+    <string name="purple">Purple</string>
+    <string name="teal">Teal</string>
+</resources>
